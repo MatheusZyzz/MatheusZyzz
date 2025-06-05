@@ -43,8 +43,8 @@ Me chamo Matheus Pires, tenho 20 anos e sou natural de Rondônia. Concluí o ens
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="VisualStudio"
+    title="VisualStudio" 
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
